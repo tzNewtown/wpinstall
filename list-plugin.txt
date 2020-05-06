@@ -3,4 +3,5 @@ https://downloads.wordpress.org/plugin/current-year-shortcode.zip
 https://downloads.wordpress.org/plugin/email-address-encoder.1.0.19.zip
 https://downloads.wordpress.org/plugin/user-role-editor.4.53.zip
 https://downloads.wordpress.org/plugin/all-in-one-seo-pack.3.3.4.zip
+https://downloads.wordpress.org/plugin/wordpress-seo.14.0.4.zip
 https://downloads.wordpress.org/plugin/wordfence.7.4.5.zip
